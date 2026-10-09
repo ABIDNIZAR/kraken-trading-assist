@@ -1,25 +1,21 @@
 {
-  "name": "Kraken Trading Assist V4 — Simulation",
-  "short_name": "Trading Assist",
-  "description": "Classement automatique indicatif, scanner Kraken et portefeuille fictif. Sans accès aux fonds réels.",
-  "lang": "fr",
-  "start_url": "./index.html",
+  "name": "Kraken Trading Assist V5 — Simulation",
+  "short_name": "Trading Assist V5",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0e1728",
-  "theme_color": "#0e1728",
+  "background_color": "#0b1426",
+  "theme_color": "#0b1426",
   "icons": [
     {
-      "src": "./icons/icon-192.png",
+      "src": "icons/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
-      "src": "./icons/icon-512.png",
+      "src": "icons/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
