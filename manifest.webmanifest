@@ -1,7 +1,7 @@
 {
-  "name": "Kraken Trading Assist — Simulation",
+  "name": "Kraken Trading Assist V4 — Simulation",
   "short_name": "Trading Assist",
-  "description": "Simulations de trading crypto, sans accès aux fonds réels. Application indépendante non affiliée à Kraken.",
+  "description": "Classement automatique indicatif, scanner Kraken et portefeuille fictif. Sans accès aux fonds réels.",
   "lang": "fr",
   "start_url": "./index.html",
   "scope": "./",
